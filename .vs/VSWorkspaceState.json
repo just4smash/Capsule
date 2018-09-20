@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Capsule_TaskManager"
+    "\\Capsule_TaskManager",
+    "\\ServiceCode"
   ],
-  "SelectedNode": "\\Capsule_TaskManager\\Capsule_TaskManager.sln",
+  "SelectedNode": "\\ServiceCode\\Capsule_TaskManager.sln",
   "PreviewInSolutionExplorer": false
 }
